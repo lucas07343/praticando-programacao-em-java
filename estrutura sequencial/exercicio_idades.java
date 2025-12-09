@@ -27,7 +27,7 @@ public class exercicio_idades {
 
         media = (idade1 + idade2) / 2.0;
         System.out.println();
-        System.out.println("A idade média de Maria Silva e Joao Melo é de " + String.format("%.1f", media) + " anos");
+        System.out.println("A idade média de " + nome1 + " e " + nome2 + " é de " + String.format("%.1f", media) + " anos");
 
         sc.close();
     }
