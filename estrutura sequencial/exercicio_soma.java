@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class soma {
+public class exercicio_soma {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

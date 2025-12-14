@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Locale;
 
-public class pagamento {
+public class exercicio_pagamento {
     public static void main(String[] args) {
         
         Locale.setDefault(Locale.US);
