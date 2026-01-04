@@ -21,7 +21,7 @@ public class exercicio_negativos {
         qte_negativos = 0;
         for (int i = 0; i < n; i++) {
             if (vet[i] < 0) {
-                qte_negativos += 1;
+                qte_negativos ++;
             }
         }
 

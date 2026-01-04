@@ -29,7 +29,7 @@ public class exercicio_numeros_pares {
         qte_pares = 0;
         for (int i = 0; i < n; i++) {
             if (vet[i] % 2 == 0) {
-                qte_pares += 1;
+                qte_pares ++;
             }
         }
 

@@ -37,7 +37,7 @@ public class exercicio_alturas {
             soma_alturas += alturas[i];
 
             if (idades[i] < 16) {
-                qte_menores += 1;
+                qte_menores ++;
             }
         }
 
