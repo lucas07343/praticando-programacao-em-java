@@ -10,6 +10,7 @@ public class exercicio_diagonal_negativos {
             e.printStackTrace();
         }
     }
+    
     public static void main(String[] args) {
         
         Scanner sc = new Scanner(System.in);
@@ -21,7 +22,9 @@ public class exercicio_diagonal_negativos {
             n = sc.nextInt();
 
             if (n > 10 || n < 0) {
-                System.out.println("NUMERO invalido,\nFavor digitar novamente");
+                System.out.println();
+                System.out.println("NUMERO INVALIDO\nFavor digitar novamente");
+                System.out.println();
                 temporizador(args);
             }
         } while(n > 10 || n < 0);
