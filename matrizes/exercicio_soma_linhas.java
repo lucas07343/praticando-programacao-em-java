@@ -34,13 +34,13 @@ public class exercicio_soma_linhas {
             System.out.print("Qual a quantidade de colunas da matriz?(maximo 10) ");
             m = sc.nextInt();
 
-            if (n > 10 || n < 0) {
+            if (m > 10 || m < 0) {
                 System.out.println();
                 System.out.println("NUMERO INVALIDO,\nFavor digitar novamente");
                 temporizador(args);
                 System.out.println();
             }
-        } while(n > 10 || n< 0);
+        } while(m > 10 || m < 0);
         
         System.out.println();
 
