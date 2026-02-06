@@ -1,4 +1,4 @@
-# praticando-programacao-em-java
+# praticando-programacao-java
 Repositório com exercícios e testes de lógica em java usando estruturas básicas (sequenciais, condicionais, repetitivas, vetores e matrizes) para praticar e aprender a linguagem.
 
 🧩 Praticando Programação em java
